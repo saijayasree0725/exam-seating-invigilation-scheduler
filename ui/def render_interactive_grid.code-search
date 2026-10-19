@@ -1,0 +1,9 @@
+# Query: def render_interactive_grid
+# ContextLines: 1
+
+1 result - 1 file
+
+ui\components.py:
+  64  
+  65: def render_interactive_grid(room: Room, assignments: List[StudentSeatAssignment]):
+  66      """Renders a 2D interactive physical seat map for a specific room."""

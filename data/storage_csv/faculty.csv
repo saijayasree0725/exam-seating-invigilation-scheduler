@@ -1,0 +1,9 @@
+faculty_id,name,department,max_duties,unavailable_slots
+FAC-01,Dr. Meera Nambiar,Computer Science,3,2026-11-12 | Afternoon (01:30 - 04:30)
+FAC-02,Prof. Rajesh Verma,Electronics,3,
+FAC-03,Dr. Sunita Kulkarni,Mathematics,2,2026-11-10 | Morning (09:30 - 12:30)
+FAC-04,Prof. Amit Banerjee,Mechanical,3,
+FAC-05,Dr. Vikram Joshi,Computer Science,2,
+FAC-06,Dr. Ananya Ray,Electronics,3,
+FAC-07,Prof. Karthik Iyer,Mechanical,2,
+FAC-08,Dr. Priya Deshmukh,Humanities,2,

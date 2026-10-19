@@ -1,0 +1,43 @@
+student_id,name,department,courses
+CS-01,Aarav Sharma,Computer Science,CS301;CS302;MA301
+CS-02,Diya Patel,Computer Science,CS301;CS302;MA301
+CS-03,Rohan Gupta,Computer Science,CS301;CS302;MA301
+CS-04,Ananya Singh,Computer Science,CS301;CS302;MA301
+CS-05,Ishaan Roy,Computer Science,CS301;CS302;MA301
+CS-06,Sneha Nair,Computer Science,CS301;CS302;MA301
+CS-07,Kabir Mehta,Computer Science,CS301;CS302
+CS-08,Pooja Reddy,Computer Science,CS301;CS302
+CS-09,Arjun Das,Computer Science,CS301;CS302
+CS-10,Neha Chawla,Computer Science,CS301;CS302
+CS-11,Aditya Bose,Computer Science,CS301;CS302
+CS-12,Riya Sen,Computer Science,CS301;CS302
+CS-13,Siddharth Rao,Computer Science,CS301;CS302
+CS-14,Kavya Menon,Computer Science,CS301;CS302
+EC-01,Varun Bhat,Electronics,EC301;EC302;MA301
+EC-02,Tanvi Joshi,Electronics,EC301;EC302;MA301
+EC-03,Yash Malhotra,Electronics,EC301;EC302;MA301
+EC-04,Isha Mukherjee,Electronics,EC301;EC302;MA301
+EC-05,Manish Saxena,Electronics,EC301;EC302;MA301
+EC-06,Shruti Pillai,Electronics,EC301;EC302;MA301
+EC-07,Nikhil Hegde,Electronics,EC301;EC302
+EC-08,Bhavna Iyer,Electronics,EC301;EC302
+EC-09,Harsh Vardhan,Electronics,EC301;EC302
+EC-10,Meera Krishnan,Electronics,EC301;EC302
+EC-11,Gaurav Kapoor,Electronics,EC301;EC302
+EC-12,Deepika Bhatt,Electronics,EC301;EC302
+EC-13,Devendra Kumar,Electronics,EC301;EC302
+EC-14,Anushka Ghosh,Electronics,EC301;EC302
+ME-01,Kunal Thakur,Mechanical,ME301;MA301
+ME-02,Preeti Kulkarni,Mechanical,ME301;MA301
+ME-03,Sameer Deshmukh,Mechanical,ME301;MA301
+ME-04,Gayatri Chauhan,Mechanical,ME301;MA301
+ME-05,Aakash Pandey,Mechanical,ME301;MA301
+ME-06,Shweta Tiwari,Mechanical,ME301;MA301
+ME-07,Rahul Aggarwal,Mechanical,ME301
+ME-08,Sonali Mishra,Mechanical,ME301
+ME-09,Vikas Dubey,Mechanical,ME301
+ME-10,Swati Namboodiri,Mechanical,ME301
+ME-11,Prateek Yadav,Mechanical,ME301
+ME-12,Monika Jain,Mechanical,ME301
+ME-13,Tarun Goel,Mechanical,ME301
+ME-14,Simran Gill,Mechanical,ME301

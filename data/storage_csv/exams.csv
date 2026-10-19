@@ -1,0 +1,7 @@
+exam_code,subject_name,department,date,time_slot,duration_hours
+CS301,Artificial Intelligence & CSP,Computer Science,2026-11-10,Morning (09:30 - 12:30),3.0
+EC301,Digital Signal Processing,Electronics,2026-11-10,Morning (09:30 - 12:30),3.0
+CS302,Database Management Systems,Computer Science,2026-11-11,Morning (09:30 - 12:30),3.0
+ME301,Thermodynamics & Heat Transfer,Mechanical,2026-11-11,Morning (09:30 - 12:30),3.0
+MA301,Applied Probability & Statistics,Mathematics,2026-11-12,Morning (09:30 - 12:30),3.0
+EC302,VLSI Circuit Design,Electronics,2026-11-12,Afternoon (01:30 - 04:30),3.0

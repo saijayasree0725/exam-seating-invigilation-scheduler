@@ -1,0 +1,5 @@
+room_id,building,rows,cols,capacity,is_active
+LH-101,Aryabhata Academic Block,5,5,25,Yes
+LH-102,Aryabhata Academic Block,5,5,25,Yes
+LH-201,Ramanujan Science Center,4,5,20,Yes
+LH-202,Ramanujan Science Center,4,4,16,Yes
